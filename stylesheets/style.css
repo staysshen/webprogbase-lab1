@@ -1,0 +1,66 @@
+p {
+    color: #708090; font-stretch: expanded;
+    font-family: Georgia;
+    text-align: center;
+}
+h3{
+    color: #696969;font-stretch: expanded;
+    font-family: Georgia;
+    text-align:center;
+}
+h1{
+    color: #696969;font-stretch: expanded;
+    font-family: Georgia; font-size: 50px;
+    text-align: center;
+}
+a{
+    color: #708090; font-stretch: expanded; 
+    background-color: #cfdeee;
+    font-family: Georgia;
+
+}
+li{
+    color: #708090;
+    margin-left: 15px;
+    margin-top: 1px;
+    padding: 0px 0px 0px 0px;
+}
+title {
+    color: #1b60a5; font-stretch: expanded;
+    font-family: Georgia; font-size:500px
+}
+body{
+    background-color: #cbebf1;
+}
+img{
+
+    display: block;
+    margin: 0 auto;
+}
+audio{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px; 
+}
+table {
+    width: 300px; /* Ширина таблицы */
+    border: 1px solid green; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
+   td {
+    text-align: center;
+    color: #708090; font-stretch: expanded; 
+    background-color: #cfdeee;
+    font-family: Georgia;
+   }
+   th{
+    text-align: center;
+    color: #708090; font-stretch: expanded; 
+    background-color: #cfdeee;
+    font-family: Georgia;
+   }
+   caption{
+    text-align: center;
+    color: #6b7177; font-stretch: expanded; 
+    font-family: Georgia;
+   }
